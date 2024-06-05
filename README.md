@@ -1,2 +1,6 @@
 # gitdesdecero-junio2024
-Ejemplo 1
+Repo fr ejemplo para curso
+
+## Primeros paos 
+
+## Comandos básicos
